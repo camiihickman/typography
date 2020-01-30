@@ -94,11 +94,11 @@ h6{
 
 a{
 	text-decoration: none;
-	text-color: #56a2c4;
+	color: #56a2c4;
 }
 
 a:visited{
-	text-color: #56a2c4;
+	color: #56a2c4;
 }
 
 /*make headlines closer*/
